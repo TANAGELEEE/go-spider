@@ -1,2 +1,3 @@
 # go-spider
-spider
+. spider
+. ebiten
